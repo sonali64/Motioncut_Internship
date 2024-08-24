@@ -6,3 +6,6 @@ This task involves the development of a Python-based quiz game designed to test 
 ## Task 2: Word Counter Tool🚀
 
 Created an advanced word counter using Python's Tkinter library. The app counts words, shows unique words, and displays word frequency—all in a user-friendly interface! 
+
+## Task 3: Expense Tracker Project 🧾💰
+I developed a Python-based Expense Tracker to help users manage their daily expenses. The application allows users to add, delete, and categorize expenses, offering insights through monthly summaries and category-wise analysis. With a user-friendly interface built using Tkinter, the project focuses on effective data handling, organization, and intuitive user interaction. 📊💡
